@@ -1,1 +1,18 @@
 Alonso Santarriaga Moreno
+1 En tus palabras, ¿Qué es internet?
+un servidor de informacion intenacional en el cual encuentras todo tipo de informacion
+2 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+Algo inalambrico
+3 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+Con la informacion del servidor
+4 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+debe de llegar a la centtal de la aplicacion
+5 Describe los protocolos que existen en internet, en específico HTTP y HTML
+URL, Direcciones IP, DNS
+6 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+Estas herramientas son algo maravilloso, ya que son unas herramientas bastantes simples yy coplejan a la vez
+Siven para ayudar al usuario en la mayor medida posible 
+7 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+Ponienddo contraseñas largas y dificiles y activar la autentificacion 
+8 ¿Cómo funciona la búsqueda de google?
+Con la busqueddda manda la pegunta a los servidores y muestra las respuestas relacionadas
